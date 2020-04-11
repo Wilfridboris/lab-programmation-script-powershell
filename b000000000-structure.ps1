@@ -13,4 +13,4 @@
 
 $personneNom = "Alice"
 $personneAge = 35
-Write-Host "bonjour $personneNom,tu as $personneAge ans."
+Write-Host " hi bonjour $personneNom,tu as $personneAge ans."
